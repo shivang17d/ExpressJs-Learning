@@ -1,4 +1,4 @@
-# Express - Node.js web application framework
+# Express : Node.js web application framework
 
 - Step 1 => To create package.json : `npm init -y`
 
