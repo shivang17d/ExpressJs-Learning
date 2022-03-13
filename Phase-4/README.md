@@ -17,7 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/86548591/158078488-a29946d8-1eb7-42b8-813a-52b4ca9cc0dd.png)
 
-- Step 4 : To fetch data from server into views folder (ejs)
+- Step 4 : To fetch data from server into views folder (ejs) => Dynamic title Change
 
 ![image](https://user-images.githubusercontent.com/86548591/158078834-66f9dfff-e4fa-44d0-8a6c-4b546e21f29b.png)
 
